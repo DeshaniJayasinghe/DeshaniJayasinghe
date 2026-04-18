@@ -72,25 +72,19 @@
 </h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/deshani-jayasinghe-3a23a3327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:deshanijk@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" alt="Mail" height="30" width="40" /></a>
-<a href="https://github.com/DeshaniJayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/deshani-jayasinghe-3a23a3327" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  
+  <a href="https://github.com/DeshaniJayasinghe" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
 </p>
 
 <br>
 
 ---
 
-<h2 align="center"> 
-  <img alt="Bongo Cat" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"> 
-  Fun Zone 
-  <img alt="Bongo Cat" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"> 
-</h2> 
 
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=5e17eb&background=0D1117&center=true&vCenter=true&width=750&lines=%3E+Mixing+Logic+with+Creativity...;%3E+Next+Stop%3A+Cloud+Expert!)
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
