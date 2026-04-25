@@ -60,7 +60,7 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeshaniJayasinghe&theme=tokyonight&background=0D1117&ring=5e17eb&fire=5e17eb&currStreakLabel=5e17eb&hide_border=true" width="755px" style="margin: 5px;" />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeshaniJayasinghe&theme=react-dark&bg_color=0D1117&color=5e17eb&line=5e17eb&point=ffffff&hide_border=true" width="755px" style="margin: 5px;" />
+  
 </div>
 
 <br>
